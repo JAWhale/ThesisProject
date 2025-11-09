@@ -1,0 +1,16 @@
+<workspace name="Thesis_Workspace_V2" version="5.0.2" crc="91107786">
+  <projects>
+    <project type="project" name="a9_Bus" filepath=".\Kenyon_9_Bus\9_Bus.pscx" />
+    <project type="library" name="a210209_Kenyon_Library" filepath=".\Kenyon_9_Bus\a210209_Kenyon_Library.pslx" />
+    <project type="project" name="inputctrl" filepath="..\..\..\..\..\Public\Documents\PSCAD\5.0\Examples\tutorial\inputctrl.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>
