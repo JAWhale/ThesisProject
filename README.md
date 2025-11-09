@@ -1,7 +1,8 @@
 
 
 **************************** MATLAB README ******************************************************
-This MATLAB script contains a suite of plotting and data import functions designed to visualize generator and grid behavior from structured Excel datasets. It supports time-domain and characteristic plots for active power, reactive power, voltage, frequency, and angle responses.
+
+The MATLAB script PlotFromCSV inside the zipped matlabCode folder contains a suite of plotting and data import functions designed to visualize generator and grid behavior from structured Excel datasets. It supports time-domain and characteristic plots for active power, reactive power, voltage, frequency, and angle responses.
 
 Function List and Usage Examples
 
